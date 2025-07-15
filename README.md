@@ -1,5 +1,5 @@
 # muyingshangcheng
-母婴商城系统，功能完善，界面美观,三个角色，商家、管理员和用户
+母婴商城系统，功能完善，界面美观,三个角色，商家、管理员和用户，数据修改后也可以用作其他的商城系统！
 <img width="1019" height="897" alt="image" src="https://github.com/user-attachments/assets/8d85cd81-5d14-492e-b20d-446732eeb7ae" />
 <img width="1375" height="860" alt="image" src="https://github.com/user-attachments/assets/6690a0a8-3437-4a70-94b2-bbf26031cad2" />
 <img width="1355" height="876" alt="image" src="https://github.com/user-attachments/assets/1414983b-5230-4680-867f-2b095efb4ba6" />
